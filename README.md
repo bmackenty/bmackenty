@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bill</h1>
 <h3 align="center">A professional educator teaching high-school computing in Warsaw, Poland.</h3>
 
-- 🔭 I’m currently working on **new 9th and 10th grade learning exerpiences**, an **LMS offering student choice**, and **finishing co-authoring a textbook for the new IB computer science curriculum**
+- 🔭 I’m currently working on **new 9th and 10th grade learning experiences**, an **LMS offering students incredible choice**, and **finishing co-authoring a textbook for the new IB computer science curriculum**, and working full time **teaching about 90 high-school students high school computing.**
 
-- 🌱 I’m currently learning **Rust and javascript**
+- 🌱 I’m currently learning **javascript**, which I hate because I really know PHP quite well. I am constantly upgrading my skills in Python, which I love. 
 
 - 📝 I regularly write articles on [mackenty.org](mackenty.org)
 
