@@ -35,23 +35,19 @@
     <li>
       <span><a href="http://us.linkedin.com/in/bmackenty">us.linkedin.com/in/bmackenty</a></span>
     </li>
-
     <li>
       <span><a href="http://computersciencewiki.org">Computer Science Wiki</a></span>
     </li>
-    
     <li>
       <span><a href="https://courses.computersciencewiki.org/">Syllabi, daily notes,</a> <a href="https://lms.computersciencewiki.org/">lms</a></span>
     </li>
         <li>
     <span><a href="https://games.mackenty.org">a wiki I use to organize games / game ideas / D&amp;D games</a></span>
     </li>
-
     <li>
     <span><a href="https://www.goodreads.com/user/show/873149-bill">my goodreads profile</a></span>
     </li>
   </ul>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
