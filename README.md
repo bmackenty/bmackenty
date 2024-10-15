@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bill</h1>
 <h3 align="center">A professional educator teaching high-school computing in Warsaw, Poland.</h3>
 
-- 🔭 I’m currently working on **new 9th and 10th grade learning exerpiences**
+- 🔭 I’m currently working on **new 9th and 10th grade learning exerpiences**, an **LMS offering student choice**, and **finishing co-authoring a textbook for the new IB computer science curriculum**
 
 - 🌱 I’m currently learning **Rust and javascript**
 
