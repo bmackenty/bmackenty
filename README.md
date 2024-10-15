@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **IB computer science, high school computer science**
 
-- 📫 How to reach me **bmackenty@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <ul>
