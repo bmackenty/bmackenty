@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bill</h1>
+<h1 align="center">Hi 👋, I'm Bill MacKenty</h1>
 <h3 align="center">A professional educator teaching high-school computing in Warsaw, Poland.</h3>
 
 - 🔭 I’m currently working on **new 9th and 10th grade learning experiences**, an **LMS offering students incredible choice**, and **finishing co-authoring a textbook for the new IB computer science curriculum**, and working full time **teaching about 90 high-school students high school computing.**
