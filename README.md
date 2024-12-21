@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **new 9th and 10th grade learning experiences**, an **LMS offering students incredible choice**, and **finishing co-authoring a textbook for the new IB computer science curriculum**, and working full time **teaching about 90 high-school students high school computing.**
 
-- 🌱 I’m currently learning **javascript**, which I hate because I really know PHP quite well. I am constantly upgrading my skills in Python, which I love. 
+- 🔭 I’m also building conceptual-based approach to teaching IB DP computer science and MYP Design with a programming focus.
+
+- 🌱 I’m currently learning **javascript**, which I hate because I really know PHP quite well. I am constantly upgrading my skills in Python, which I love. I really don't like frameworks very much.
 
 - 📝 From time to time I write articles, short stories, and thoughts on high school computing on [mackenty.org](https://mackenty.org)
 
