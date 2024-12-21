@@ -42,7 +42,7 @@
       <span><a href="https://courses.computersciencewiki.org/">Syllabi, daily notes,</a> <a href="https://lms.computersciencewiki.org/">lms</a></span>
     </li>
         <li>
-    <span><a href="https://games.mackenty.org">a wiki I use to organize games / game ideas / D&amp;D games</a></span>
+    <span><a href="https://games.mackenty.org">a wiki I use to organize a science-fiction universe I'm writing about.</a></span>
     </li>
     <li>
     <span><a href="https://www.goodreads.com/user/show/873149-bill">my goodreads profile</a></span>
