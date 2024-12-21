@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **javascript**, which I hate because I really know PHP quite well. I am constantly upgrading my skills in Python, which I love. 
 
-- 📝 I regularly write articles on [mackenty.org](https://mackenty.org)
+- 📝 From time to time I write articles, short stories, and thoughts on high school computing on [mackenty.org](https://mackenty.org)
 
 - 💬 Ask me about **IB computer science, high school computer science**
 
