@@ -7,7 +7,7 @@
 
 - 🔭 I’m also building conceptual-based approach to teaching IB DP computer science and MYP Design with a programming focus.
 
-- 🌱 I’m currently learning **javascript**, which I hate because I really know PHP quite well. I am constantly upgrading my skills in Python, which I love. I really don't like frameworks very much, but if I use one, I prefer codeigniter.
+- 🌱 I’m currently learning **javascript**, which I hate because I really know PHP quite well. I am constantly upgrading my skills in Python, which I love. I really don't like frameworks very much, but if I use one, I prefer codeigniter. I work in a Debian (not Ubuntu) / MariaDB / Apache ecosystem. 
 
 - 📝 From time to time I write articles, short stories, and thoughts on high school computing on [mackenty.org](https://mackenty.org)
 
