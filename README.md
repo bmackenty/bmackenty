@@ -25,7 +25,6 @@
     <li>
       <span>email: bill@mackenty.org</span>
     </li>
-
     <li>
       <span>Bluesky: <a href="https://bsky.app/profile/billmackenty.bsky.social">profile</a></span>
     </li>
