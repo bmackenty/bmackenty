@@ -25,11 +25,9 @@
     <li>
       <span>email: bill@mackenty.org</span>
     </li>
+
     <li>
-      <span>Skype: bill.mackenty</span>
-    </li>
-    <li>
-      <span>Twitter: #bmackenty</span>
+      <span>Bluesky: <a href="https://bsky.app/profile/billmackenty.bsky.social">profile</a></span>
     </li>
     <li>
       <span><a href="http://us.linkedin.com/in/bmackenty">us.linkedin.com/in/bmackenty</a></span>
